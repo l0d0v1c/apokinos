@@ -7,7 +7,7 @@ The lexikon contains 36k+ lemmes.
 
 # Demo
 
-The page can be accessed by [ThisLink](https://htmlpreview.github.io/?https://github.com/l0d0v1c/apokinos/blob/main/index.html).
+The page can be accessed by [ThisLink](https://l0d0v1c.github.io/apokinos/).
 
 
 
