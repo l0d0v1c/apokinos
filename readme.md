@@ -9,6 +9,9 @@ The lexikon contains 36k+ lemmes.
 
 The page can be accessed by [ThisLink](https://l0d0v1c.github.io/apokinos/).
 
+# Mobile
+
+You can add apokinos as an app on iOS by clicking share the add to homescreen.
 
 
 
