@@ -5,6 +5,9 @@ Apokinos allows to search by latin alphabet. Some letters are transcribed as h f
 It is designed to study ancient greek and quickly discover words.
 The lexikon contains 36k+ lemmes.
 
+# Demo
+
+The page can be accessed by [ThisLink](https://htmlpreview.github.io/?https://github.com/l0d0v1c/apokinos/blob/main/index.html).
 
 
 
