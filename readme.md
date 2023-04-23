@@ -11,9 +11,11 @@ On each words a &#128278; icon allows to bookmark. The bookmark list can be view
 
 The bookmark list displays a link at the bottom that can be saved to archive a specific corpus, for instance [this one](https://g.h2.tf/?list=4113|34505|6791).
 
+It is also possible to share lists without importing them like this [list of trees](https://g.h2.tf/?share=34987|10472|34622|17639|19007|31883|23320|697|17995).
+
 # Demo
 
-The page can be accessed by [ThisLink](https://g.h2.tf/).
+The page can be accessed by [ThisLink](https://g.h2.tf).
 
 
 
