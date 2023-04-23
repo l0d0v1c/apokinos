@@ -9,11 +9,11 @@ The lexikon contains 36k+ lemmes.
 
 On each words a &#128278; icon allows to bookmark. The bookmark list can be viewed by clicking on the &#128278; button below the search fields.
 
-The bookmark list displays a link at the bottom that can be saved to archive a specific corpus, for instance [this one](https://l0d0v1c.github.io/apokinos/?list=4113|34505|6791).
+The bookmark list displays a link at the bottom that can be saved to archive a specific corpus, for instance [this one](https://g.h2.tf/?list=4113|34505|6791).
 
 # Demo
 
-The page can be accessed by [ThisLink](https://l0d0v1c.github.io/apokinos/).
+The page can be accessed by [ThisLink](https://g.h2.tf/).
 
 
 
