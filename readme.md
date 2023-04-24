@@ -13,6 +13,8 @@ The bookmark list displays a link at the bottom that can be saved to archive a s
 
 It is also possible to share lists without importing them like this [list of trees](https://g.h2.tf/?share=34987|10472|34622|17639|19007|31883|23320|697|17995&title=List%20of%20trees%20in%20greek). By default the title is "Greek wordlist" and you may change it before sharing a list on social networks.
 
+The search box is hidden in share mode. But if you add a word to the list (&#128278;), it'll reappear.
+
 # Exporting/importing lists
 
 The list view (&#128278;) allows to export html file of the list. The html file can be reimported using the 'Load a list' button. The treeslist.html file provided in the repo can be used as a demo.
