@@ -24,6 +24,8 @@ The list view (&#128278;) allows to export html file of the list. The html file 
 
 The page can be accessed by [ThisLink](https://g.h2.tf).
 
+A shared list about [12 important greek words](https://g.h2.tf/?share=13497|4772|35210|22476|22332|27039|22764|3615|5358|8751|32545|12720&title=12%20important%20words%20from%20ancient%20greek).
+
 
 
 
