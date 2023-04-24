@@ -13,6 +13,11 @@ The bookmark list displays a link at the bottom that can be saved to archive a s
 
 It is also possible to share lists without importing them like this [list of trees](https://g.h2.tf/?share=34987|10472|34622|17639|19007|31883|23320|697|17995).
 
+# Exporting/importing lists
+
+The list view (&#128278;) allows to export html file of the list. The html file can be reimported using the 'Load a list' button. The treeslist.html file provided in the repo can be used as a demo.
+
+
 # Demo
 
 The page can be accessed by [ThisLink](https://g.h2.tf).
