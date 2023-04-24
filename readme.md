@@ -11,7 +11,7 @@ On each words a &#128278; icon allows to bookmark. The bookmark list can be view
 
 The bookmark list displays a link at the bottom that can be saved to archive a specific corpus, for instance [this one](https://g.h2.tf/?list=4113|34505|6791).
 
-It is also possible to share lists without importing them like this [list of trees](https://g.h2.tf/?share=34987|10472|34622|17639|19007|31883|23320|697|17995).
+It is also possible to share lists without importing them like this [list of trees](https://g.h2.tf/?share=34987|10472|34622|17639|19007|31883|23320|697|17995&title=list of trees in greek). By default the title is "Greek wordlist" and you may change it before sharing a list on social networks.
 
 # Exporting/importing lists
 
