@@ -19,6 +19,9 @@ The search box is hidden in share mode. But if you add a word to the list (&#128
 
 The list view (&#128278;) allows to export html file of the list. The html file can be reimported using the 'Load a list' button. The treeslist.html file provided in the repo can be used as a demo.
 
+# French definitions
+
+After the version 1.1, Apokinos displays the definitions in French from Bailly 1919 edition (Abrégé du dictionnaire Grec-Français, Librairie Hachette et Cie, Paris) lexicon.
 
 # Demo
 
