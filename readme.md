@@ -31,7 +31,9 @@ A shared list about [12 important greek words](https://g.h2.tf/?share=13497|4772
 
 The [top 100 most](https://g.h2.tf/?share=16297|6745|20722|27825|23767|16764|5675|3935|1511|23856|24436|23917|15849|36437|24197|22419|27120|36439|23765|3147|19853|15107|27289|14565|32681|1641|21135|9902|23174|31041|31992|19036|9350|8473|23466|23294|16202|2894|10459|20737|15210|14388|7046|14867|6177|21060|1511|1567|26468|22670|9640|16557|9903|27154|19367|11565|3931|23914|6840|24473|33403|14562|32354|26640|23901|26383|27190|22915|2143|24474|13646|11687|16329|23258|28797|13094|16269|25199|23833|32884|8536|11217|5521|1549|28448|20471|24138|11688|31953|29429|797|14510|21525|8915|25461|9915|14682|32792|16291|7384&title=Top100%20most%20frequent) frequent greek words, except articles.
 
+# Dealing with word variants
 
+You can display "writer" allowing you to enter a latin alphabet form and sear among 811000+ words from the greek litterature corpus how are located accents, based on [FF1K](https://opengreekandlatin.github.io/First1KGreek/) parsing.
 
 # References
 Lexikon based on [greek-reference](https://github.com/blinskey/greek-reference) and [Perseus](http://www.perseus.tufts.edu/hopper/).
