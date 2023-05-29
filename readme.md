@@ -35,5 +35,9 @@ The [top 100 most](https://g.h2.tf/?share=16297|6745|20722|27825|23767|16764|567
 
 You can display "writer" allowing you to enter a latin alphabet form and sear among 811000+ words from the greek litterature corpus how are located accents, based on [FF1K](https://opengreekandlatin.github.io/First1KGreek/) parsing.
 
+# Lemmatisation
+
+You can write a sentence in greek using lemma button to get possible lemma for each words.
+
 # References
 Lexikon based on [greek-reference](https://github.com/blinskey/greek-reference) and [Perseus](http://www.perseus.tufts.edu/hopper/).
